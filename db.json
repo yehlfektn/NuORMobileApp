@@ -9,7 +9,8 @@
       "semester": "Fall 2014"
     }
   ],
-  "check_grades": {
+  "check_grades": { [
+                   {
       "id": 1,
       "name": "Nurdaulet Kenges",
       "student_id":"201254328",
@@ -18,12 +19,14 @@
       "semester": "Fall 2014",
       "subjects": [
     {
-     "instanceID": "1097",
-    "courseCode": "CSCI462",
-    "courseTitle":"OpenSourceSoftware",
-    "grade":"S",
-    "term":"Spring 2018"
-    }
+      "instanceID": "1097",
+      "courseCode": "CSCI462",
+      "courseTitle":"OpenSourceSoftware",
+      "grade":"S",
+      "term":"Spring 2018"
+      }
+      ]
+                   }
     ]
   }
 }

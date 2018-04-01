@@ -2,8 +2,11 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello",
-      "name": "hello"
+      "name": "Nurdaulet Kenges",
+      "school": "School of Science and Technology",
+      "major": "Computer Science",
+      "program": "Bachelor of Science in Computer Science",
+      "semester": "Fall 2014"
     }
   ],
   "profile": {

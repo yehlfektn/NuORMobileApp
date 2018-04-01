@@ -10,23 +10,102 @@
     }
   ],
   "check_grades": [
-      {
-        "id": 1,
-        "name": "Nurdaulet Kenges",
-        "student_id":"201254328",
-        "school": "School of Science and Technology",
-        "major": "Computer Science",
-        "semester": "Fall 2014",
-        "subjects": 
-        [
-          {
-            "instanceID": "1097",
-            "courseCode": "CSCI462",
-            "courseTitle":"OpenSourceSoftware",
-            "grade":"S",
-            "term":"Spring 2018"
-          }
-       ]
-      }
-    ]
+    {
+      "id": 1,
+      "name": "Nurdaulet Kenges",
+      "student_id": "201254328",
+      "school": "School of Science and Technology",
+      "major": "Computer Science",
+      "semester": "Fall 2014",
+      "subjects": [
+        {
+          "instanceID": "1097",
+          "courseCode": "CSCI462",
+          "courseTitle": "OpenSourceSoftware",
+          "grade": "S",
+          "term": "Spring 2018"
+        }
+      ]
+    }
+  ],
+  "onCampusMarkers": [
+    {
+      "name": "parking",
+      "markers": [
+        {
+          "id": "1",
+          "name": "parking1",
+          "lon": "51.088056",
+          "lat": "71.399914",
+          "description": "South parking",
+          "work_time": "08:00 - 20:00",
+          "image": "http://www.semboldevelopment.com/cms/uploads/images/Parking.jpg"
+        },
+        {
+          "id": "2",
+          "name": "parking2",
+          "lon": "51.092262",
+          "lat": "71.400836",
+          "description": "North Parkingn",
+          "work_time": "08:00 - 20:00",
+          "image": "http://www.semboldevelopment.com/cms/uploads/images/Parking.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Sports",
+      "markers": [
+        {
+          "id": "1",
+          "name": "sports1",
+          "lon": "51.088888",
+          "lat": "71.395521",
+          "description": "Sport center",
+          "work_time": "13:00 - 18:00",
+          "image": "https://nu.edu.kz/wp-content/uploads/2017/04/img44.jpg"
+        },
+        {
+          "id": "2",
+          "name": "sports2",
+          "lon": "51.087301",
+          "lat": "71.394972",
+          "description": "Athletic center",
+          "work_time": "13:00 - 18:00",
+          "image": "http://tarazarena.kz/images/category/sport-sections/trenajer.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Food",
+      "markers": [
+        {
+          "id": "1",
+          "name": "22",
+          "lon": "51.088366",
+          "lat": "71.396658",
+          "description": "Turchanka",
+          "work_time": "9:00 - 22:00",
+          "image": "https://seng.nu.edu.kz/wp-content/uploads/2015/06/213271.jpg"
+        },
+        {
+          "id": "2",
+          "name": "hp",
+          "lon": "51.088410",
+          "lat": "71.398424",
+          "description": "Health project",
+          "work_time": "9:00 - 23:00",
+          "image": "https://www.kn.kz/uploads/user_files/article/October/sto.jpg"
+        },
+        {
+          "id": "3",
+          "name": "4th block",
+          "lon": "51.090068",
+          "lat": "71.399039",
+          "description": "4th block canteen",
+          "work_time": "9:00 - 19:00",
+          "image": "http://www.voxpopuli.kz/userfiles/posts/428/0797cc2fe4ce5dbb9145d7498ef82451_big.jpg"
+        }
+      ]
+    }
+  ]
 }

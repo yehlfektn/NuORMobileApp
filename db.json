@@ -19,23 +19,23 @@
       "semester": "Fall 2014",
       "subjects": [
             {
-          "instanceID": "1097",
-          "courseCode": "CSCI462",
+          "instanceID": "10977",
+          "courseCode": "CSCI 462",
           "courseTitle": "OpenSourceSoftware",
           "grade": "S",
           "term": "Spring 2018"
         },
               {
-          "instanceID": "1097",
-          "courseCode": "CSCI462",
-          "courseTitle": "OpenSourceSoftware",
+          "instanceID": "10975",
+          "courseCode": "CSCI 408",
+          "courseTitle": "Senior Project I",
           "grade": "S",
           "term": "Spring 2018"
         },
               {
-          "instanceID": "1097",
-          "courseCode": "CSCI462",
-          "courseTitle": "OpenSourceSoftware",
+          "instanceID": "10972",
+          "courseCode": "CSCI 245",
+          "courseTitle": "System Analysis and Design",
           "grade": "S",
           "term": "Spring 2018"
         }

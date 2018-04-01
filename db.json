@@ -44,6 +44,7 @@
   ],
   "onCampusMarkers": [
     {
+      "id":1,
       "name": "parking",
       "markers": [
         {
@@ -67,6 +68,7 @@
       ]
     },
     {
+      "id":2,
       "name": "Sports",
       "markers": [
         {
@@ -90,6 +92,7 @@
       ]
     },
     {
+      "id":3,
       "name": "Food",
       "markers": [
         {

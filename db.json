@@ -1,12 +1,8 @@
 {
-  "gpa_calculator": [
+  "posts": [
     {
       "id": 1,
-      "name": "Nurdaulet Kenges",
-      "school": "School of Science and Technology",
-      "major": "Computer Science",
-      "program": "Bachelor of Science in Computer Science",
-      "admission_semester": "Fall 2014"
+      "title": "hello"
     }
   ],
   "profile": {

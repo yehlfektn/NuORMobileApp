@@ -205,5 +205,51 @@
           "name": "Regulations on Leave",
           "link": "http://my.nu.edu.kz/wps/wcm/myconnect/bf3d9de7-d968-49c4-96d0-7b57d2e0c705/Regulation+on+leave+of+absence+for+undergraduate+and+foundation_eng.pdf?MOD=AJPERES"
         }
-      ]
+      ],
+         "feed": [
+  
+    {
+      "name": "mailing",
+      "mailing":[{
+      "id": 1,
+      "club": "K-POP",
+      "Title": "K-pop concert invitation. Some additions.",
+      "Venue": "Main Hall",
+      "Description": "Dear NU Community, We are delighted to invite you to NU K-Pop Cover Dance Club’s 3rd Annual Concert ‘New Face’! This year the concert is organized in collaboration with Korean Cultural Center in Astana! The concert is the fusion of conventional musical and K-pop dances. Our club will be happy to share this special evening with each and every one of you.",
+      "time": "19:00",
+      "date": "31/04/18"
+    },
+        {
+      "id": 2,
+      "club": "LOUD club",
+      "Title": "KARAOKE NIGHT",
+      "Venue": "Old Dorm",
+      "Description": "DEAR STUDENTS, Sicked of writing papers or tired of exam preparation? So, you are invited to KARAOKE NIGHT! You will not only sing songs, we prepared lip sing battles and games with gifts.",
+      "time": "19:30",
+      "date": "29/04/18"
+    }
+]},
+{
+      "name": "events",
+      "events":[{
+      "id": 1,
+      "club": "SPE",
+      "Title": "SPE gest lecturer.",
+      "Venue": "5.105",
+      "Description": "Dear students, On behalf of Nazarbayev University SPE Student Chapter, we are delighted to invite you to the Second Youth Oil and Gas Symposium “Astana Munay Fest”, which will be held on March 28-29, 2018 at Nazarbayev University.",
+      "time": "15:00",
+      "date": "15/04/18"
+    },
+        {
+      "id": 2,
+      "club": "ACA",
+      "Title": "Auditing master class",
+      "Venue": "Orange hall",
+      "Description": "Dear Students, If you are a student graduating in 2018 and interested in a career in the audit profession we are happy to announce that from 2 to 6 April there will be Audit Week from KPMG.",
+      "time": "12:00",
+      "date": "05/04/18"
+    }
+]}
+
+  ]
     }

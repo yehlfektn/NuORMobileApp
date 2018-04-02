@@ -1,176 +1,209 @@
-{
-  "gpa_calculator": [
     {
-      "id": 1,
-      "name": "Nurdaulet Kenges",
-      "school": "School of Science and Technology",
-      "major": "Computer Science",
-      "program": "Bachelor of Science in Computer Science",
-      "semester": "Fall 2014"
-    }
-  ],
-  "check_grades": [
-    {"id": 1,
-     "name": "Midterm_Grades",
-     "grades":[
-      {
-        "id": 1,
-        "name": "Nurdaulet Kenges",
-        "student_id": "201254328",
-        "school": "School of Science and Technology",
-        "major": "Computer Science",
-        "semester": "Fall 2014",
-        "subjects": [
-          {
-            "instanceID": "10977",
-            "courseCode": "CSCI 462",
-            "courseTitle": "OpenSourceSoftware",
-            "grade": "S",
-            "term": "Spring 2018"
-          },
-          {
-            "instanceID": "10975",
-            "courseCode": "CSCI 408",
-            "courseTitle": "Senior Project I",
-            "grade": "S",
-            "term": "Spring 2018"
-          },
-          {
-            "instanceID": "10972",
-            "courseCode": "CSCI 245",
-            "courseTitle": "System Analysis and Design",
-            "grade": "S",
-            "term": "Spring 2018"
-          }
-        ]
-      }
+      "gpa_calculator": [
+        {
+          "id": 1,
+          "name": "Nurdaulet Kenges",
+          "school": "School of Science and Technology",
+          "major": "Computer Science",
+          "program": "Bachelor of Science in Computer Science",
+          "semester": "Fall 2014"
+        }
+      ],
+      "check_grades": [
+        {
+          "id": 1,
+          "name": "Nurdaulet Kenges",
+          "student_id": "201254328",
+          "school": "School of Science and Technology",
+          "major": "Computer Science",
+          "semester": "Fall 2014",
+          "subjects": [
+            {
+              "instanceID": "10977",
+              "courseCode": "CSCI 462",
+              "courseTitle": "OpenSourceSoftware",
+              "grade": "S",
+              "term": "Spring 2018"
+            },
+            {
+              "instanceID": "10975",
+              "courseCode": "CSCI 408",
+              "courseTitle": "Senior Project I",
+              "grade": "S",
+              "term": "Spring 2018"
+            },
+            {
+              "instanceID": "10972",
+              "courseCode": "CSCI 245",
+              "courseTitle": "System Analysis and Design",
+              "grade": "S",
+              "term": "Spring 2018"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "Nurdaulet Kenges",
+          "student_id": "201254328",
+          "school": "School of Science and Technology",
+          "major": "Computer Science",
+          "semester": "Fall 2014",
+          "subjects": [
+            {
+              "instanceID": "10977",
+              "courseCode": "HST 100",
+              "courseTitle": "History of Kazakhstan",
+              "grade": "A",
+              "term": "Fall 2017"
+            },
+             {
+              "instanceID": "10259",
+              "courseCode": "CSCI 408",
+              "courseTitle": "Senior Project I",
+              "grade": "A",
+              "term": "Fall 2017"
+            },
+             {
+              "instanceID": "10254",
+              "courseCode": "CSCI 262",
+              "courseTitle": "Software Project Management",
+              "grade": "A",
+              "term": "Fall 2017"
+            },
+              {
+              "instanceID": "10259",
+              "courseCode": "PHYS 201",
+              "courseTitle": "Introductory Astronomy I",
+              "grade": "A",
+              "term": "Fall 2017"
+            }
+          ]
+        }
 
-    ]}
-     
-   ],
-  "onCampusMarkers": [
-    {
-      "id":1,
-      "name": "parking",
-      "markers": [
+      ],
+      "onCampusMarkers": [
         {
-          "id": "1",
-          "name": "parking1",
-          "lon": "51.088056",
-          "lat": "71.399914",
-          "description": "South parking",
-          "work_time": "08:00 - 20:00",
-          "image": "http://www.semboldevelopment.com/cms/uploads/images/Parking.jpg"
+          "id":1,
+          "name": "parking",
+          "markers": [
+            {
+              "id": "1",
+              "name": "parking1",
+              "lon": "51.088056",
+              "lat": "71.399914",
+              "description": "South parking",
+              "work_time": "08:00 - 20:00",
+              "image": "http://www.semboldevelopment.com/cms/uploads/images/Parking.jpg"
+            },
+            {
+              "id": "2",
+              "name": "parking2",
+              "lon": "51.092262",
+              "lat": "71.400836",
+              "description": "North Parkingn",
+              "work_time": "08:00 - 20:00",
+              "image": "http://www.semboldevelopment.com/cms/uploads/images/Parking.jpg"
+            }
+          ]
         },
         {
-          "id": "2",
-          "name": "parking2",
-          "lon": "51.092262",
-          "lat": "71.400836",
-          "description": "North Parkingn",
-          "work_time": "08:00 - 20:00",
-          "image": "http://www.semboldevelopment.com/cms/uploads/images/Parking.jpg"
+          "id":2,
+          "name": "Sports",
+          "markers": [
+            {
+              "id": "1",
+              "name": "sports1",
+              "lon": "51.088888",
+              "lat": "71.395521",
+              "description": "Sport center",
+              "work_time": "13:00 - 18:00",
+              "image": "https://nu.edu.kz/wp-content/uploads/2017/04/img44.jpg"
+            },
+            {
+              "id": "2",
+              "name": "sports2",
+              "lon": "51.087301",
+              "lat": "71.394972",
+              "description": "Athletic center",
+              "work_time": "13:00 - 18:00",
+              "image": "http://tarazarena.kz/images/category/sport-sections/trenajer.jpg"
+            }
+          ]
+        },
+        {
+          "id":3,
+          "name": "Food",
+          "markers": [
+            {
+              "id": "1",
+              "name": "22",
+              "lon": "51.088366",
+              "lat": "71.396658",
+              "description": "FreeFlow",
+              "work_time": "9:00 - 22:00",
+              "image": "https://seng.nu.edu.kz/wp-content/uploads/2015/06/213271.jpg"
+            },
+            {
+              "id": "2",
+              "name": "hp",
+              "lon": "51.088410",
+              "lat": "71.398424",
+              "description": "Health project",
+              "work_time": "9:00 - 23:00",
+              "image": "https://www.kn.kz/uploads/user_files/article/October/sto.jpg"
+            },
+            {
+              "id": "3",
+              "name": "4th block",
+              "lon": "51.090068",
+              "lat": "71.399039",
+              "description": "4th block canteen",
+              "work_time": "9:00 - 19:00",
+              "image": "http://www.voxpopuli.kz/userfiles/posts/428/0797cc2fe4ce5dbb9145d7498ef82451_big.jpg"
+            }
+          ]
         }
-      ]
-    },
-    {
-      "id":2,
-      "name": "Sports",
-      "markers": [
+      ],
+      "documents": [
         {
-          "id": "1",
-          "name": "sports1",
-          "lon": "51.088888",
-          "lat": "71.395521",
-          "description": "Sport center",
-          "work_time": "13:00 - 18:00",
-          "image": "https://nu.edu.kz/wp-content/uploads/2017/04/img44.jpg"
+          "name": "stud_code",
+          "markers": [
+            {
+              "id": 1,
+              "name": "Student Code of Conduct",
+              "link": "http://my.nu.edu.kz/wps/wcm/myconnect/23340402-75a2-4b76-82a5-42c56320ab42/Code_ENG%281%29.pdf?MOD=AJPERES"
+            }
+          ]
         },
         {
-          "id": "2",
-          "name": "sports2",
-          "lon": "51.087301",
-          "lat": "71.394972",
-          "description": "Athletic center",
-          "work_time": "13:00 - 18:00",
-          "image": "http://tarazarena.kz/images/category/sport-sections/trenajer.jpg"
-        }
-      ]
-    },
-    {
-      "id":3,
-      "name": "Food",
-      "markers": [
-        {
-          "id": "1",
-          "name": "22",
-          "lon": "51.088366",
-          "lat": "71.396658",
-          "description": "FreeFlow",
-          "work_time": "9:00 - 22:00",
-          "image": "https://seng.nu.edu.kz/wp-content/uploads/2015/06/213271.jpg"
+          "name": "dormitory",
+          "markers": [
+            {
+              "id": 1,
+              "name": "Dormitory Regulations",
+              "link": "http://my.nu.edu.kz/wps/wcm/myconnect/59cf624c-4d8e-4eaf-a462-2276a5e61e14/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0+%D0%BF%D1%80%D0%BE%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F+%D0%B2+%D0%BE%D0%B1%D1%89%D0%B5%D0%B6%D0%B8%D1%82%D0%B8%D1%8F%D1%85+%28%D0%B0%D0%BD%D0%B3%D0%BB%29.pdf?MOD=AJPERES"
+            }
+          ]
         },
         {
-          "id": "2",
-          "name": "hp",
-          "lon": "51.088410",
-          "lat": "71.398424",
-          "description": "Health project",
-          "work_time": "9:00 - 23:00",
-          "image": "https://www.kn.kz/uploads/user_files/article/October/sto.jpg"
+          "name": "internet",
+          "markers": [
+            {
+              "id": 1,
+              "name": "Internet use Regulations",
+              "link": "http://my.nu.edu.kz/wps/wcm/myconnect/5ed4f0cb-898d-4e28-9a98-74a894c2bd7c/Internet+use+procedures+in+the+autonomous+organization+of+education+Nazarbayev+University+and+its+organizations%281%29.pdf?MOD=AJPERES"
+            }
+          ]
         },
         {
-          "id": "3",
-          "name": "4th block",
-          "lon": "51.090068",
-          "lat": "71.399039",
-          "description": "4th block canteen",
-          "work_time": "9:00 - 19:00",
-          "image": "http://www.voxpopuli.kz/userfiles/posts/428/0797cc2fe4ce5dbb9145d7498ef82451_big.jpg"
+          "name": "leave",
+          "markers": [
+            {
+              "id": 1,
+              "name": "Regulations on Leave",
+              "link": "http://my.nu.edu.kz/wps/wcm/myconnect/bf3d9de7-d968-49c4-96d0-7b57d2e0c705/Regulation+on+leave+of+absence+for+undergraduate+and+foundation_eng.pdf?MOD=AJPERES"
+            }
+          ]
         }
       ]
     }
-  ],
-  "documents": [
-    {
-      "name": "stud_code",
-      "markers": [
-        {
-          "id": 1,
-          "name": "Student Code of Conduct",
-          "link": "http://my.nu.edu.kz/wps/wcm/myconnect/23340402-75a2-4b76-82a5-42c56320ab42/Code_ENG%281%29.pdf?MOD=AJPERES"
-        }
-      ]
-    },
-    {
-      "name": "dormitory",
-      "markers": [
-        {
-          "id": 1,
-          "name": "Dormitory Regulations",
-          "link": "http://my.nu.edu.kz/wps/wcm/myconnect/59cf624c-4d8e-4eaf-a462-2276a5e61e14/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0+%D0%BF%D1%80%D0%BE%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F+%D0%B2+%D0%BE%D0%B1%D1%89%D0%B5%D0%B6%D0%B8%D1%82%D0%B8%D1%8F%D1%85+%28%D0%B0%D0%BD%D0%B3%D0%BB%29.pdf?MOD=AJPERES"
-        }
-      ]
-    },
-    {
-      "name": "internet",
-      "markers": [
-        {
-          "id": 1,
-          "name": "Internet use Regulations",
-          "link": "http://my.nu.edu.kz/wps/wcm/myconnect/5ed4f0cb-898d-4e28-9a98-74a894c2bd7c/Internet+use+procedures+in+the+autonomous+organization+of+education+Nazarbayev+University+and+its+organizations%281%29.pdf?MOD=AJPERES"
-        }
-      ]
-    },
-    {
-      "name": "leave",
-      "markers": [
-        {
-          "id": 1,
-          "name": "Regulations on Leave",
-          "link": "http://my.nu.edu.kz/wps/wcm/myconnect/bf3d9de7-d968-49c4-96d0-7b57d2e0c705/Regulation+on+leave+of+absence+for+undergraduate+and+foundation_eng.pdf?MOD=AJPERES"
-        }
-      ]
-    }
-  ]
-}

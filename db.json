@@ -86,7 +86,7 @@
           "school": "School of Science and Technology",
           "major": "Computer Science",
           "semester": "Fall 2014",
-          "subjects": [
+          "tests": [
             {
               "test": "History of Kazakhstan",
               "score": "95",

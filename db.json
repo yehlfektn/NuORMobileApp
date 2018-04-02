@@ -98,6 +98,28 @@
               "taken_date": "22.12.2017"
             }
           ]
+        },
+                {
+          "id": 4,
+          "name": "Final Exams",
+          "exams": [
+            {
+              "date": "24.4.18",
+              "start_time": "13:00",
+              "finish_time": "15:00",
+              "exam_title": "System Analysis and Design",
+              "instructor": "Askar Boranbayev",
+              "room": "7.317"
+            },
+               {
+              "date": "25.4.18",
+              "start_time": "13:00",
+              "finish_time": "15:00",
+              "exam_title": "Introduction to Political Science",
+              "instructor": "Neil Collins",
+              "room": "9.307"
+            }
+          ]
         }
 
       ],
